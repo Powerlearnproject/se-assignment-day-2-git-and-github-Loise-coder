@@ -44,7 +44,7 @@
 ## Open a pr on github, comparing your branch with the target branch.
 ## Collaborators review, comment and approve or suggest changes.
 ## Merge the pr once it's approved.
-## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful? 
 ## Forking creates a personal copy of someone else's repository under your account, allowing you to modify it without affecting the original while cloning creates a local copy of a repository on your computer but does not creare a separate repository on github.
 ## Forking is used in experimenting with a project independently and contributing to open-source projects.
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.

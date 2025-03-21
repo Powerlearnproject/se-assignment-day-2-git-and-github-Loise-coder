@@ -18,7 +18,7 @@
 ## Installation steps - How to set up the project.
 ## Project overview - The project's purpose.
 ## Usage instructions - Details on how to use the project.
-## Contribution guidelines - How others can contribute
+## Contribution guidelines - How others can contribute.
 ## Contact information 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 ## A public repository is visible to everyone on the internet.
